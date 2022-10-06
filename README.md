@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hudaopao
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning data analysticn and business economics
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking for something which can improve my skills
 - 📫 How to reach me ...
 
 <!---
